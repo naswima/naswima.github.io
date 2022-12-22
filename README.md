@@ -8,8 +8,7 @@ My name is Naswima Akter, I go by my middle name, Prova.
   - I graduated from High School for Health Professions & Human Services in the spring of 2021.
   - I am a certified medical assistant [NHA](https://www.nhanow.com/?utm_medium=ppc&utm_term=nha&utm_source=adwords&utm_campaign=WP_G_SRCH_BRAND_AMT_NHA&hsa_kw=nha&hsa_acc=4754401107&hsa_ad=593886733569&hsa_net=adwords&hsa_src=g&hsa_tgt=kwd-619708615&hsa_grp=124755110795&hsa_mt=e&hsa_cam=13623490751&hsa_ver=3&gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGGl54vovkhagsH3pfcnVXmLU6sROuOu6YlJGYuTZEdATbUpBhGsZNMaAlH4EALw_wcB "NHA")
   - My favorite animals are penguins!
-  - [Penguin Family](https://i0.wp.com/exposeuk.com/wp-content/uploads/2019/07/1556175266452.jpg?resize=1920%2C1080&ssl=1 "Text")
-
+  - [Penguin Family](https://i0.wp.com/exposeuk.com/wp-content/uploads/2019/07/1556175266452.jpg?resize=1920%2C1080&ssl=1 "Image title")
 
 #### Why Computer Science?
 Growing up, I was conviced I had my life figured out and while my friends and classmates began working on their 5-year goal plans, I was already mapping out my 10-year plan. I had it all figured out, at least thats what I belived. I graduated High School with honors and more volunteer hours than the typical requirment and walked across the stage Spring 2021 with my board certification from the National Healthcareer Association (NHA) as a Medical Assistant. My resume was stacked with credibility for a career in healthcare and medicine. It was only when I got to college that I realize how much my visons changed. From wanting to become a pediatrician in emergency medicine, to telling my friends and family I switched majors one year into college was not something I anticipated happening. 

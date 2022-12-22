@@ -1,6 +1,6 @@
 # Naswima (Prova) Akter
 
-## Sophmore Computer Science Student at [Link text with title] (https://www.fordham.edu// "Fordham University Lincoln Center")
+## Sophmore Computer Science Student at (https://www.fordham.edu// "Fordham University Lincoln Center")
 
 ### H3
 #### Why Computer Science?

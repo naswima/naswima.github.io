@@ -1,12 +1,13 @@
 # Naswima (Prova) Akter
 
-## Sophmore Computer Science Student at (https://www.fordham.edu// "Fordham University Lincoln Center")
+## Department of Computer Science Student at [Fordham University](https://www.fordham.edu// "Fordham University Lincoln Center")
+Fordham College 2025'
 
 ### About Me
 My name is Naswima Akter, I go by my middle name, Prova. 
   - I am a sophmore student studying computer science at Fordham College at Lincoln Center.
   - I graduated from High School for Health Professions & Human Services in the spring of 2021.
-  - I am a certified medical assistant [Link text with title](https://www.nhanow.com/?utm_medium=ppc&utm_term=nha&utm_source=adwords&utm_campaign=WP_G_SRCH_BRAND_AMT_NHA&hsa_kw=nha&hsa_acc=4754401107&hsa_ad=593886733569&hsa_net=adwords&hsa_src=g&hsa_tgt=kwd-619708615&hsa_grp=124755110795&hsa_mt=e&hsa_cam=13623490751&hsa_ver=3&gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGGl54vovkhagsH3pfcnVXmLU6sROuOu6YlJGYuTZEdATbUpBhGsZNMaAlH4EALw_wcB "NHA")
+  - I am a certified medical assistant [NHA](https://www.nhanow.com/?utm_medium=ppc&utm_term=nha&utm_source=adwords&utm_campaign=WP_G_SRCH_BRAND_AMT_NHA&hsa_kw=nha&hsa_acc=4754401107&hsa_ad=593886733569&hsa_net=adwords&hsa_src=g&hsa_tgt=kwd-619708615&hsa_grp=124755110795&hsa_mt=e&hsa_cam=13623490751&hsa_ver=3&gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGGl54vovkhagsH3pfcnVXmLU6sROuOu6YlJGYuTZEdATbUpBhGsZNMaAlH4EALw_wcB "NHA")
 
 
 #### Why Computer Science?

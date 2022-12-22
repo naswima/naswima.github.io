@@ -4,7 +4,7 @@
 ## Department of Computer Science Student at [Fordham University](https://www.fordham.edu// "Fordham University Lincoln Center")
 Fordham College 2025'
 
-### About Me
+### **About Me**
 My name is Naswima Akter, I go by my middle name, Prova. 
   - I am a sophmore student studying computer science at Fordham College at Lincoln Center.
   - I graduated from High School for Health Professions & Human Services in the spring of 2021.
@@ -16,5 +16,5 @@ Growing up, I was conviced I had my life figured out and while my friends and cl
 
 If there's one thing life has taught me, it's that change is inevitable, whether you want it or not. Change requires adjustment but it's okay because no change is a smooth occuring. Computer Science happened to be a feild I vaguely explored back in high school as a junior participant at Columbia University's SWE Engineering Exploration Expereince. I was part of a class writing codes to name and file hurricanes and I remember enjoying that event so much that it sealed the deal when I had doubts about my original major. While I am still adjusting to the world of computer science, I've decided to toss my 5-year and 10-year plans and take life as it comes my way. After all, there is no authentic experience if everything is pre-planned. 
 
-**Bold text** ##### Connect with me!
+##### **Connect with me!**
 [LinkedIN: Naswima Akter](https://www.linkedin.com/in/naswima-akter-9060871b5/ "LinkedIn")

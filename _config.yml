@@ -1,3 +1,4 @@
+
 # Setup
 title: Naswima Akter (Prova)
 description: Fordham University Class of 2025
@@ -54,3 +55,6 @@ author:
   name: naswima
   url: https://naswima.github.io/
   email: nakter5@fordham.edu
+  <<<<<<< naswima-patch-1
+  >>>>>>> main
+

@@ -1,6 +1,6 @@
 # **Naswima (Prova) Akter**
 ## Department of Computer Science Student at [Fordham University](https://www.fordham.edu// "Fordham University Lincoln Center")
-![Fordham College 2025'](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomputercomforts.com%2Fcci-installs%2Fnovember-2017-fordham-university-2&psig=AOvVaw3Jk4Dad0BGQsKqpGAjW3eS&ust=1671772931108000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjOyui9jPwCFQAAAAAdAAAAABAX "text")
+Fordham College 2025![Fordham College 2025'](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh04iSmJNL4my0mjyVBieVyeLOmF377zvS1Q&usqp=CAU "text")
 
 
 ### **About Me**

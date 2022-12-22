@@ -1,6 +1,4 @@
 # Naswima (Prova) Akter
-![Prova](https://media.licdn.com/dms/image/C4E03AQHDeQ1gxnz_0w/profile-displayphoto-shrink_800_800/0/1611945352753?e=2147483647&v=beta&t=l0Vj-HdOCseoMY3av0ljt_ID5Ek5DXsFRnYp7aUYnxQ "Image title")
-
 ## Department of Computer Science Student at [Fordham University](https://www.fordham.edu// "Fordham University Lincoln Center")
 Fordham College 2025'
 
@@ -9,6 +7,8 @@ My name is Naswima Akter, I go by my middle name, Prova.
   - I am a sophmore student studying computer science at Fordham College at Lincoln Center.
   - I graduated from High School for Health Professions & Human Services in the spring of 2021.
   - I am a certified medical assistant [NHA](https://www.nhanow.com/?utm_medium=ppc&utm_term=nha&utm_source=adwords&utm_campaign=WP_G_SRCH_BRAND_AMT_NHA&hsa_kw=nha&hsa_acc=4754401107&hsa_ad=593886733569&hsa_net=adwords&hsa_src=g&hsa_tgt=kwd-619708615&hsa_grp=124755110795&hsa_mt=e&hsa_cam=13623490751&hsa_ver=3&gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGGl54vovkhagsH3pfcnVXmLU6sROuOu6YlJGYuTZEdATbUpBhGsZNMaAlH4EALw_wcB "NHA")
+  - My favorite animals are penguins!
+  - [Penguin Family](https://i0.wp.com/exposeuk.com/wp-content/uploads/2019/07/1556175266452.jpg?resize=1920%2C1080&ssl=1 "Text")
 
 
 #### Why Computer Science?

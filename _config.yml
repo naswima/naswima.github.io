@@ -1,11 +1,12 @@
+
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Naswima Akter (Prova)
+description: Fordham University Class of 2025
+url: https://naswima.github.io/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: / https://media.licdn.com/dms/image/C4E03AQHDeQ1gxnz_0w/profile-displayphoto-shrink_800_800/0/1611945352753?e=2147483647&v=beta&t=l0Vj-HdOCseoMY3av0ljt_ID5Ek5DXsFRnYp7aUYnxQ
 
 # Gems
 plugins:
@@ -28,15 +29,12 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
+  username: naswima
   card: summary
 logo: logo.png
-social:
-  name: Songzi Vong
+  name: Naswima Akter
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/naswima
 google_site_verification: xxxxx
 lang: en
 
@@ -54,7 +52,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
-remote_theme: Not Pure Poole 
+  name: naswima
+  url: https://naswima.github.io/
+  email: nakter5@fordham.edu
+  <<<<<<< naswima-patch-1
+  >>>>>>> main
+

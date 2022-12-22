@@ -21,4 +21,3 @@ If there's one thing life has taught me, it's that change is inevitable, whether
 =======
 ##### **Connect with me!**
 [LinkedIN: Naswima Akter](https://www.linkedin.com/in/naswima-akter-9060871b5/ "LinkedIn")
-remote_theme: Not Pure Poole

@@ -1,7 +1,7 @@
-# **Naswima (Prova) Akter**
-## Department of Computer Science Student at [Fordham University](https://www.fordham.edu// "Fordham University Lincoln Center")
-Fordham College 2025 
-![Fordham College 2025'](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh04iSmJNL4my0mjyVBieVyeLOmF377zvS1Q&usqp=CAU "text")
+![Profile Picture](https://media.licdn.com/dms/image/v2/D4E03AQHYXVrbqt97OQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709322217086?e=2147483647&v=beta&t=9)
+# **Naswima **(Prova)** Akter**
+## Department of Computer Science Student at [Fordham University](https://www.fordham.edu// "Fordham University")
+Fordham University FCLC 2025 
 
 
 ### **About Me**
@@ -20,5 +20,6 @@ If there's one thing life has taught me, it's that change is inevitable, whether
 
 =======
 ##### **Connect with me!** 
-[LinkedIN: Naswima Akter](https://www.linkedin.com/in/naswima-akter-9060871b5/ "LinkedIn")
+[LinkedIN: Prova Akter](https://www.linkedin.com/in/naswima-akter-9060871b5/ "LinkedIn")
+[Email: Prova Akter]("naswimaa@gmail.com" <naswimaa@gmail.com>)
 
